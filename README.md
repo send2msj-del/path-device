@@ -2,6 +2,8 @@
 
 A lightweight, zero-dependency Windows utility for managing custom terminal aliases and system scripts with automatic `PATH` registry integration.
 
+### NOTE: THIS IS A PYTHON SCRIPT AND PROBABLY WON'T WORK WITHOUT COMPILATION. USE PYINSTALLER, INSTALLED WITH 'pip install pyinstaller' WITH THE '--windowed', AND '--onefile' FLAGS. AS AN EXE IT WORKS FINE, AND FOLLOW THE DIRECTIONS IT GIVES.
+
 ---
 
 ## ⚡ Key Features
